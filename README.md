@@ -17,3 +17,4 @@ doc/*.txt
 
 # игнорируем конкретно файл secret.s по конкретному пути 
 data/config/secret.s
+new line fixed
